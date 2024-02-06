@@ -1,1 +1,3 @@
 # ML-von-Neumann-Entropy
+
+This GitHub website provides the source code of the paper "The Expressivity of Classical and Quantum Neural Networks on Entanglement Entropy" (arXiv: 2305.00997). The implementation is written in Python and is based on the TensorFlow-Keras framework for the classical deep learning models studied in Sec. 3 and Sec. 4, and on the PennyLane framework for the quantum models studied in Sec. 5. They are all contained in the same source code file. We have also included the Mathematica file used to generate the datasets based on the generating function method introduced in Sec. 2, along with our datasets. Please refer to the instructions in these files.
